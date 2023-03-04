@@ -12,17 +12,15 @@ theme:
       primary: cyan
       accent: teal
       toggle:
-        icon: material/lightbulb
+        icon: material/lightbulb-outline
         name: Switch to light mode
 
     - scheme: default
       primary: cyan
       accent: teal
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/lightbulb
         name: Switch to dark mode
-  features:
-    - content.tooltips
 
 extra:
   consent:
