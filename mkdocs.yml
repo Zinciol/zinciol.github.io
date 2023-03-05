@@ -13,6 +13,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - navigation.top
   palette:
     #- scheme: slate
     #- primary: cyan
