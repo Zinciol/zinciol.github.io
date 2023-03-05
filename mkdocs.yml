@@ -4,9 +4,15 @@ dev_addr: '192.168.100.90:8000'
 
 repo_url: https://github.com/Zinciol/zinciol.github.io
 repo_name: ZinciolGithub
+edit_uri: edit/main/docs/
 
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - content.action.edit
+    - content.action.view
   palette:
     #- scheme: slate
     #- primary: cyan
