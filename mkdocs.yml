@@ -67,7 +67,7 @@ extra:
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
 nav:
-  - Home: index.md
+  - Home: index.m
     - About Us: home/about-us.md
     - Using The Site: home/using-the-site.md
   - Information: information/index.md
