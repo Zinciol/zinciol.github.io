@@ -14,6 +14,7 @@ theme:
     - content.action.edit
     - content.action.view
     - navigation.top
+    - navigation.tabs
   palette:
     #- scheme: slate
     #- primary: cyan
