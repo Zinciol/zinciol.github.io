@@ -15,6 +15,7 @@ theme:
     - content.action.view
     - navigation.top
     - navigation.tabs
+    - navigation.indexes
   palette:
     #- scheme: slate
     #- primary: cyan
